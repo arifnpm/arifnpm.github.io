@@ -1,0 +1,6 @@
+{
+	"title": "React + Webpack Project",
+	"description": "React Project using Webpack as the compiler",
+	"icon": "express_webpack.svg",
+	"file": "express_webpack.zip"
+}
