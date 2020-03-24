@@ -3,7 +3,16 @@
 		"title":"React + Webpack Project",
 		"description":"React Project using Webpack as the compiler",
 		"icon":"react_webpack.svg",
-		"file":"react_webpack.zip"
+		"file":"react_webpack.zip",
+		"config": {
+			"name": {
+				"type": "string",
+				"label": "Name",
+				"description": "Project name",
+				"required": true
+			}
+		},
+		"tmplFiles": ["package.json"]
 	},
 	{
 		"title":"Express + Webpack Project",
