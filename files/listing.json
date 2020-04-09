@@ -1,0 +1,17 @@
+[
+	{
+		"title":"React Class (TypeScript)",
+		"description":"React Class derived from React.Component written in TypeScript (.tsx)",
+		"icon":"react.svg",
+		"file":"react_class.tsx",
+		"extension": ".tsx",
+		"config": {
+			"name": {
+				"type": "string",
+				"label": "Class Name",
+				"description": "Class Name",
+				"required": true
+			}
+		}
+	}
+]
